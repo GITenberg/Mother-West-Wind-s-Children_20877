@@ -1,0 +1,48 @@
+_repo: Mother-West-Wind-s-Children_20877
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Kerr, George F.
+    birthdate: 1869
+    deathdate: 1953
+    gutenberg_agent_id: '26526'
+    url: http://www.gutenberg.org/2009/agents/26526
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Burgess, Thornton W. (Thornton Waldo)
+    alias: Burgess, Thornton Waldo
+    birthdate: 1874
+    deathdate: 1965
+    gutenberg_agent_id: '717'
+    url: http://www.gutenberg.org/2009/agents/717
+    wikipedia: http://en.wikipedia.org/wiki/Thornton_Burgess
+description: Fifteen tales that explain why Danny Meadow Mouse has a short tail, the
+  reason Reddy Fox has no friends, and other mysteries about the residents of Green
+  Meadow.
+gutenberg_bookshelf:
+- Children's Literature
+- Children's Book Series
+gutenberg_issued: '2007-03-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20877'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories, American'
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+tableOfContents: Danny Meadow Mouse learns why his tale is short -- Why Reddy Fox
+  has no friends -- Why Peter Rabbit's ears are long -- Reddy Fox disobeys -- Striped
+  Chipmunk's pockets -- Reddy Fox, the boaster -- Johnny Chuck's secret -- Johnny
+  Chuck's great fight -- Mr. Toad's old suit -- Grandfather Frog gets even -- The
+  disappointed bush -- Why Bobby Coon washes his food -- The Merry Little Breezes
+  have a busy day -- Why Hooty the Owl does not play on the Green Meadows -- Danny
+  Meadow Mouse learns to laugh.
+title: Mother West Wind's Children
+url: http://www.gutenberg.org/ebooks/20877
